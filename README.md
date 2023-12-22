@@ -1,5 +1,5 @@
-![image](https://github.com/kulhara-ankit/kulhara-ankit/assets/146313680/e8f13baf-1238-4e68-9467-7d69d740f06c)About Me :
-
+![image](https://github.com/kulhara-ankit/kulhara-ankit/assets/146313680/e8f13baf-1238-4e68-9467-7d69d740f06c)
+About Me :
 - 👋 Hi, I’m Ankit Kulhara
 - 👀 I’m interested in Python, ReactJS, and AWS Cloud 
 - 🌱 I’m currently learning ReactJS
