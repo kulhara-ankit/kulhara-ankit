@@ -4,7 +4,7 @@ About Me :
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on a cool Project
 - 📫 Reach me at a.kulhara7@gmail.com
-                                                                                                      ![image](https://github.com/kulhara-ankit/kulhara-ankit/assets/146313680/85554105-66ad-4f45-8990-2659ca1fca81)
+                                                                                                     
 
 💻 I specialize in:
 - **Python**: Turning ideas into code with Pythonic elegance.
