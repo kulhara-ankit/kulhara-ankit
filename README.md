@@ -1,8 +1,8 @@
 About Me :
-- 👋 Hi, I’m Ankit Kulhara
-- 👀 I’m interested in Python, ReactJS, nodejs, SQL database and AWS Cloud 
+- 👋 Hi, I’m Ankit Kulhara.
+- 👀 I’m interested in Python, ReactJS, nodejs, SQL database and AWS Cloud.
 - 🌱 I’m currently honing my skills in Python and ReactJS. And Also looking for a job.
-- 📫 Reach me at a.kulhara7@gmail.com
+- 📫 Reach me at a.kulhara7@gmail.com.
                                                                                                      
 
 💻 I specialize in:
