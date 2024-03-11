@@ -19,6 +19,7 @@ About Me :
 - Database management (MySQL)
 - Version control using Git
 - Basic of Linux commands
+- AWS (IAM, EC2, ELB, ASG)
 
 🚀 My Achievements:
 
